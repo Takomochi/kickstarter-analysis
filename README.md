@@ -1,5 +1,4 @@
-# An Analysis of Kickstarter Campaigns
-This project is about analyzing kickstarter campaigns data and sharing our findings.
+# Kickstarting with Excel
 
 ## Overview of Project
 Louise is planning to start a crowdfunding campaign to help fund her play, "Fever". She is estimating a budget of over $10,000. Louise required our help in finding key factors of a successful outcome.
