@@ -36,10 +36,10 @@ One of the challenges was to find the easiest and fastest way to fill out the ca
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date? <br>
   - The month of May and June have more than 65 % of successful outcome rates.<br>
-    Therefore, Loise should consider launching the project between May and June.
+    Therefore, the client should consider launching the project between May and June.
     
   - The month of October and December have more than 40% of failed outcome rates.<br>
-    Therefore, Loise should avoid launching the project in October and December.
+    Therefore, the client should avoid launching the project in October and December.
 
 
 - What can you conclude about the Outcomes based on Goals?<br>
