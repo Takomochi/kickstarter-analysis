@@ -5,7 +5,7 @@ The Client is planning to start a crowdfunding campaign to help fund her play, "
 
 ### Purpose
 The purpose of the analysis is to determine whether specific factors make a project's campaign successful. <br>
-These insights will help the client to plan her own set it up for success.
+These insights will help the client to plan her own set it up for success. The excel data for this analysis is located [here](https://github.com/Takomochi/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip)
   
 ## Analysis and Challenges
 
