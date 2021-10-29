@@ -1,11 +1,11 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-The Client is planning to start a crowdfunding campaign to help fund her play, "Fever." She is estimating a budget of over $10,000. Louise required our help in finding critical factors of a successful outcome.
+The Client is planning to start a crowdfunding campaign to help fund her play, "Fever." She is estimating a budget of over $10,000. She required our help in finding critical factors of a successful outcome.
 
 ### Purpose
 The purpose of the analysis is to determine whether specific factors make a project's campaign successful. <br>
-These insights will help the client to plan her own set it up for success. The excel data for this analysis is located [here](https://github.com/Takomochi/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip)
+These insights will help the client to plan her own set it up for success. The excel data for this analysis is located [here](https://github.com/Takomochi/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip).
   
 ## Analysis and Challenges
 
