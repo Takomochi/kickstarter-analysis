@@ -14,7 +14,7 @@ For the analysis of Outcomes based on launch date, created a Pivot table first. 
 <br>
 May has the highest number of successful outcomes. Overall, between May and June have relatively high successful outcomes compared to other months. On the other hand, December has almost the same number of failed outcomes as the number of successful outcomes. The number of canceled outcomes is constantly low for each month.
 
-[Theater Outcoms Based on Launch Date - Chart](https://github.com/Takomochi/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+[Theater Outcomes Based on Launch Date - Chart](https://github.com/Takomochi/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 <img src="https://user-images.githubusercontent.com/85041697/139329947-45b63d2d-d881-4706-9e4d-f959a9027817.png" width="700">
 
@@ -24,7 +24,7 @@ For the analysis of Outcomes based on goals, created a table. The table has eigh
 <br>
 The line chart shows that less than 5000 of goal amount has the highest successful outcome rate. As the goal amount increases, the successful outcome rate decrease. However, the successful outcome rate increases up to 67 % when the goal amount is between 35000 to 45000. Then the rate decreases significantly when the goal amount is more than 45000.
 
-[Outocomes Based on Goal - Chart](https://github.com/Takomochi/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
+[Outcomes Based on Goal - Chart](https://github.com/Takomochi/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 <img src="https://user-images.githubusercontent.com/85041697/139330635-b9aa059a-754e-4b73-a778-085fa933123f.png" width="700">
 
